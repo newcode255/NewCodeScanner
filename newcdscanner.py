@@ -29,6 +29,7 @@ else:
 
 print("-" * 70)
 print("[Dev by NewCode]")
+print("Github : https://github.com/newcode255/NewCodeScanner.git")
 print("""                ...
                ;::::;
              ;::::; :;
