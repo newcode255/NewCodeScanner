@@ -9,3 +9,5 @@ cd newcodescan
 command for run the tools :
 
 python3 newcdscan.py (ip) (port : example 1-10000)
+
+
